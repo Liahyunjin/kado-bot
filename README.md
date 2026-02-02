@@ -23,3 +23,5 @@ DISCORD_BOT_TOKEN=<INSERT DISCORD BOT TOKEN HERE>
 ```
 docker-compose start
 ```
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Liahyunjin/kado-bot?utm_source=oss&utm_medium=github&utm_campaign=Liahyunjin%2Fkado-bot&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
